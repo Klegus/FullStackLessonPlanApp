@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Klegus/XLSX-refresher-WSPA.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Klegus/NextJS-Frontend-XLSX-refresher.git
