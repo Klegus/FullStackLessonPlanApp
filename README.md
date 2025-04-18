@@ -86,10 +86,9 @@ The `docker-compose.yml` file defines the following services:
 *   `mongodb`: MongoDB database service.
 *   `frontend`: The web frontend service.
 
-## Contributing
-
-Information about contributing to the project (optional).
 
 ## License
 
-Specify the project license (optional).
+Ten projekt udostępniany jest na licencji [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.pl)  
+Możesz używać, kopiować i udostępniać ten kod wyłącznie w celach niekomercyjnych.  
+Wykorzystanie komercyjne (w tym sprzedaż, wdrażanie w firmach, oferowanie jako usługa) jest zabronione.
